@@ -14,7 +14,6 @@ Whether you're a student, scientist, or just curious about how your body works a
 
 🧪 Let’s decode science, one post at a time.
 
-<img src="https://github.com/user-attachments/assets/668aee75-c096-45ab-938a-4cdee78670bb" alt="Decoded by Zinia Banner" style="width: 30%; max-width: 800px;" />
 
 
 
